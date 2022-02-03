@@ -23,7 +23,7 @@ img{
     background-color: rgb(0, 153, 255);
 }
 
-img:hover{
+img:hover:nth-child(2n){
     filter: sepia();
     border: dashed; 
  } 
